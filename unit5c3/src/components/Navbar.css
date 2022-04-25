@@ -1,0 +1,7 @@
+.navbar{
+    text-decoration: none;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    width:40%
+}

@@ -7,6 +7,7 @@ import { Admin } from "./components/Admin";
 import { Navbar } from "./components/Navbar";
 import { Logout } from "./components/Logout";
 import {Routes,Route} from "react-router-dom";
+import "./App.css"
 
 function App() {
   return (
